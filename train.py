@@ -1,1 +1,1 @@
-print (Hello train)
+print ('Hello train')
